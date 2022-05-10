@@ -1,3 +1,4 @@
 pandas
 matplotlib
 flair
+sentence-transformers
